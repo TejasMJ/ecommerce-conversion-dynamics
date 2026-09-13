@@ -49,6 +49,13 @@ build/
 *.temp
 
 # =========================
+# MLflow
+# =========================
+mlflow.db
+mlruns/
+mlartifacts/
+
+# =========================
 # Model Artifacts
 # =========================
 models/
