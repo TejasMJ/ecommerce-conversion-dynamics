@@ -12,6 +12,7 @@ cachetools==7.1.8
 certifi==2026.7.22
 cffi==2.1.1
 charset-normalizer==3.5.1
+choreographer==1.4.0
 click==8.5.0
 cloudpickle==3.1.2
 colorama==0.4.6
@@ -52,7 +53,9 @@ jsonschema==4.26.0
 jsonschema-specifications==2025.9.1
 jupyter_client==8.10.0
 jupyter_core==5.9.1
+kaleido==1.4.0
 kiwisolver==1.5.1
+logistro==2.0.1
 Mako==1.4.1
 MarkupSafe==3.0.3
 matplotlib==3.11.2
@@ -69,6 +72,7 @@ opentelemetry-api==1.44.0
 opentelemetry-proto==1.44.0
 opentelemetry-sdk==1.44.0
 opentelemetry-semantic-conventions==0.65b0
+orjson==3.12.0
 packaging==26.3
 pandas==3.0.5
 parso==0.8.7
@@ -100,6 +104,7 @@ rpds-py==2026.6.3
 scikit-learn==1.9.1
 scipy==1.17.1
 seaborn==0.13.2
+simplejson==4.1.2
 six==1.17.0
 sklearn-compat==0.1.6
 skops==0.14.0
